@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\data\\migrations\\20240815061846_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\data\\migrations\\20240815061846_addcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|c:\\users\\asus\\desktop\\my notes\\mynottes\\mynottes\\data\\migrations\\20240815054701_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9006F0FA-A912-4C0B-A7E6-782798598A03}|myNottes\\myNottes.csproj|solutionrelative:mynottes\\data\\migrations\\20240815054701_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "myNottes\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "myNottes\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAIAxwD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:49:44.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "myNottes\\ViewModel\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "myNottes\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:44:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "myNottes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "myNottes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:16:26.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Program.cs",
+              "RelativeDocumentMoniker": "myNottes\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Program.cs",
+              "RelativeToolTip": "myNottes\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAMwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:15:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "myNottes\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "myNottes\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:34:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "myNottes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Models\\Note.cs",
+              "RelativeToolTip": "myNottes\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:37:00.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Models\\User.cs",
+              "RelativeDocumentMoniker": "myNottes\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Models\\User.cs",
+              "RelativeToolTip": "myNottes\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:10:07.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "myNottes\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "myNottes\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:24:51.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240815061846_addcolumn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\Migrations\\20240815061846_addcolumn.cs",
+              "RelativeDocumentMoniker": "myNottes\\Data\\Migrations\\20240815061846_addcolumn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\Migrations\\20240815061846_addcolumn.cs",
+              "RelativeToolTip": "myNottes\\Data\\Migrations\\20240815061846_addcolumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:18:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "myNottes\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "myNottes\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:58:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "myNottes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "myNottes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T05:57:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240815054701_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\Migrations\\20240815054701_initial.cs",
+              "RelativeDocumentMoniker": "myNottes\\Data\\Migrations\\20240815054701_initial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\Migrations\\20240815054701_initial.cs",
+              "RelativeToolTip": "myNottes\\Data\\Migrations\\20240815054701_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:47:01.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "myNottes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "myNottes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:43:11.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\appsettings.json",
+              "RelativeDocumentMoniker": "myNottes\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\My Notes\\myNottes\\myNottes\\appsettings.json",
+              "RelativeToolTip": "myNottes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T05:19:51.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@model myNottes.ViewModel.LoginVM
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="row">
+
+    <div class="col-8 mx-auto">
+        <h1 class="mt-2">Login</h1>
+        <hr />
+        <form action="/" method="post">
+            <div class="mb-3">
+                <label asp-for="UserName"></label>
+                <input type="text" asp-for="UserName" class="form-control" />
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span class="text-danger" asp-validation-for="Password"></span>
+            </div>
+
+            <div class="mb-3">
+                <input type="checkbox" asp-for="RememberMe" />
+                <label asp-for="RememberMe"></label>
+                <span class="text-danger" asp-validation-for="RememberMe"></span>
+            </div>
+
+          
+
+            <div class="mb-3">
+
+                <input type="submit" class="form-control btn btn-success" value="Login" />
+
+            </div>
+
+
+        </form>
+    </div>
+</div>
